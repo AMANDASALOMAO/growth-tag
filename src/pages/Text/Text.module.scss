@@ -1,0 +1,23 @@
+.container {
+    background-color: #000000;
+    color: #ffffff;
+    width: 100%;
+    height: 50vh;
+    font-size: 2.5rem;
+    font-weight: 400;
+    padding: 2rem;
+    box-sizing: border-box;
+    text-align: right;
+    span {
+        color: #9edf81;
+        margin: 0;
+        padding: 0;
+    }
+}
+@media(max-width: 500px){
+    .container {
+    font-size: 1.8rem;
+    padding: 2rem;
+    text-align: center;
+    }
+}
