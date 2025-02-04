@@ -19,7 +19,6 @@ function Main() {
 
   return (
     <div className={styles.container}>
-      <Navbar />
       <div className={styles.main}>
         <p>Construindo Marcas, Impulsionando Negócios. Descubra como podemos elevar a sua marca!</p>
         <div className={styles.stickyImageContainer}>
